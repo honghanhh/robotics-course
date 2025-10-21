@@ -46,6 +46,16 @@ Here is another example:
 - Original text: For more information about robot learning, check out the [Hugging Face documentation](https://huggingface.co/docs/lerobot) and explore our [LeRobot datasets](https://huggingface.co/datasets/lerobot) to get started with your own projects.
 - Translation: Để biết thêm thông tin về robot learning, hãy xem [tài liệu Hugging Face](https://huggingface.co/docs/lerobot) và khám phá [bộ dữ liệu LeRobot](https://huggingface.co/datasets/lerobot) của chúng ta để bắt đầu với các dự án của riêng bạn.
 
+Here is an example for academic references:
+- Original text: **RT-1: Robotics Transformer for Real-World Control at Scale** (2023)  
+  Anthony Brohan et al.  
+  This paper demonstrates how to apply transformers to real-world robot control at scale, showing the power of learning from large and diverse datasets.  
+  [arXiv:2212.06817](https://huggingface.co/papers/2212.06817)
+- Translation: **RT-1: Robotics Transformer for Real-World Control at Scale** (2023)  
+  Anthony Brohan et al.  
+  Bài báo này minh chứng cách áp dụng transformer cho việc điều khiển robot thực tế trên quy mô, cho thấy sức mạnh của việc học từ các tập dữ liệu lớn và đa dạng.  
+  [arXiv:2212.06817](https://huggingface.co/papers/2212.06817)
+
 If the code block contains many plain texts, prove translation in collapsible <details> tag. Example:
 - Original text:
     ```python
