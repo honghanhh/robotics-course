@@ -89,7 +89,12 @@ If the code block contains many plain texts, prove translation in collapsible <d
     )
     ```
 
-IMPORTANT: Only output the translated texts and nothing else, no need explaination or instruction. The input text is between "=== BEGIN OF TEXT ===" and "=== END OF TEXT ===".
+IMPORTANT: 
+- Only output the final translated text and nothing else
+- Do NOT include any <think> sections, explanations, or step-by-step analysis
+- Do NOT show original text alongside translation
+- Do NOT include any commentary or instructions
+- Just provide the clean, final Vietnamese translation
 
 Please translate the following texts to Vietnamese:
 
